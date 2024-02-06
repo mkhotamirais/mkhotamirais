@@ -1,3 +1,6 @@
+[header](https://github.com/mkhotamirais/mkhotamirais/blob/main/RULES.md#heading1)
+[header2](https://#heading1)
+
 links
 
 [google](https://google.com)
