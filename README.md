@@ -29,9 +29,29 @@ deteksi error di vs code (sonar lint) linter
 banyak hal
 - 📫 How to reach me ...
 
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Simple Tutorials
+  - Vite + gh-pages deploy
+    - update file vite.config.js
+      ```js
+      {
+        plugins: [react()],
+        base: "/book-landing-page/"
+      }
+      ```
+    - npm install gh-pages --save-dev
+    - update package.json
+      ```js
+      "homepage": "https://{username}.github.io/{repo-name}/",
+      "scripts": {
+        "predeploy" : "npm run build",
+        "deploy" : "gh-pages -d dist",
+        ...
+      }
+      ```
+    - add commit and push and then...
+    - npm run deploy
 
 ---
 
