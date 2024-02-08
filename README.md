@@ -3,6 +3,12 @@ mkhotamirais/mkhotamirais is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+- :a: useful tips and tools
+  - Pick color anywhere [pick color online](https://pickcoloronline.com/)
+  - Icons storage [profile technology icons](https://marwin1991.github.io/profile-technology-icons/)
+  - emoji for readme [emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/tree/master?tab=readme-ov-file)
+  - guide to write readme etc [writing on github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+
 
 ---
 
