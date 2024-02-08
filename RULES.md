@@ -1,3 +1,27 @@
+task
+- [x] #739
+
+*/-/+ untuk list hasilnya sama saja
+- satu
+- satu
+* dua
+* dua
++ tiga
++ tiga
+
+1. satu
+2. dua
+
+1. nested
+   - nested satu
+   - nested dua
+     + nested lagi
+       * nested lagi
+2. dua
+3. tiga
+
+[kucing](./me2-removebg.png)
+
 [header](https://github.com/mkhotamirais/mkhotamirais/blob/main/RULES.md#heading1)
 [header2](#heading1)
 
