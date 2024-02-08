@@ -1,54 +1,29 @@
-| Rank | THING-TO |
-|-----:|---------------|
-|     1|ahmad|
-|     2|abdul|
-|     3|siti               |
-
-|no|nama|
-|-|-|
-|1|ahmad|
-|2|abdul|
-
-
-search key: panduan, redux, mern, wpu
-<br />
-PR: bcrypt vs argon2, casl vs otorisasi sendiri, tailwind vs bootstrap vs materialui, javascript vs typescript, mysql2 vs sequelize, githubv vs gitlab vs bitbucket
-accessibility (atribut accessibility), accessibility: (tag semantic)
-deteksi error di vs code (sonar lint) linter
-
 <!---
 mkhotamirais/mkhotamirais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
-Break<br/>
-**bold** **bold** _italic_ _italic_ _**boldItalic hybrid**_
-
-> blockquote
->
-> main blockquote
->
-> > nested blockquote
-> > nested blockquote
-
-- list
-- list
-
-* list
-* list
-
-1. satu
-2. dua
-3. tiga
-
 ---
 
-- 👋 Hi, I’m @mkhotamirais
+- 👋 Hi, I’m @mkhotamirais ...
+
+Hi, My name is M Khotami Rais, for now I want to be a MERN Stack Developer
 - 👀 I’m interested in ...
+
+halo semua
 - 🌱 I’m currently learning ...
+
+sekarang belajar banyak
+PR: bcrypt vs argon2, casl vs otorisasi sendiri, tailwind vs bootstrap vs materialui, javascript vs typescript, mysql2 vs sequelize, githubv vs gitlab vs bitbucket
+accessibility (atribut accessibility), accessibility: (tag semantic)
+deteksi error di vs code (sonar lint) linter
 - 💞️ I’m looking to collaborate on ...
+
+banyak hal
 - 📫 How to reach me ...
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
