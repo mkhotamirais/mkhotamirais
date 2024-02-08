@@ -3,7 +3,7 @@
 
 links
 
-[google](https://google.com)
+**[google](https://google.com)**
 
 supported color models
 
@@ -20,6 +20,7 @@ with triple backtick
 quoting text
 
 > quoting text
+> > nested quoting text
 
 styling text
 
