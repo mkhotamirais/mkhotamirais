@@ -11,7 +11,7 @@
 - 📫 How to reach me [mkhomtami](mailto:mkhotamirais@gmail.com)
 
 - 😄 Pronouns: he/him
-- 
+
 - ⚡ Fun fact: nothing special
 
 ## Useful tips and tools
