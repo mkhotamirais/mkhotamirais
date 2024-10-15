@@ -1,4 +1,4 @@
-# README GUIDE
+# README BASIC
 
 ## Table of Content
 - [ExternalLink](#external-link)
@@ -6,6 +6,9 @@
 - [Colors](#colors)
 - [Images](#images)
 - [Lists](#list)
+- [Using Emojis](#using-emojis)
+- [Alerts](#alerts)
+- [Comments](#comments-and-ignoring-markdown)
 
 
 
