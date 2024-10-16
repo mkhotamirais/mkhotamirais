@@ -15,36 +15,24 @@
 
 ## Skills
 <!-- front-end -->
-<img src="https://github.com/prplx/svg-logos/raw/master/svg/React.svg" height="40" />
-<img src="https://github.com/prplx/svg-logos/raw/master/svg/NextJS-Alt.svg" height="40"/>
-<img src="https://github.com/prplx/svg-logos/raw/master/svg/Zod.svg" height="40" />
-<!-- back-end -->
-<img src="https://raw.githubusercontent.com/actions/starter-workflows/666350e29b10d665a82d5c6d1501a29e50d63c29/icons/nodejs.svg" height="40" />
-<img src="https://github.com/prplx/svg-logos/raw/master/svg/Firebase.svg" height="40" />
-<img src="https://github.com/prplx/svg-logos/raw/master/svg/Supabase.svg" height="40" />
-<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" height="40" />
-<img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/expressjs.svg" height="40" />
-<!-- basic -->
-<img src="https://github.com/prplx/svg-logos/raw/master/svg/HTML5.svg" height="40" />
-<img src="https://github.com/prplx/svg-logos/raw/master/svg/CSS3.svg" height="40" />
-<img src="https://github.com/prplx/svg-logos/raw/master/svg/JavaScript.svg" height="40" />
-<img src="https://github.com/prplx/svg-logos/raw/master/svg/TypeScript-Alt.svg" height="40" />
-<!-- css framework -->
-<img src="https://github.com/prplx/svg-logos/raw/master/svg/TailwindCSS-Alt.svg" height="40" />
-<img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/shadcnui.svg" height="40" />
-<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/bootstrap.svg" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materializecss/materializecss-original.svg" height="40" />
-<!-- state management -->
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/redux.svg" height="40" />
-<img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/Zustand.svg" alt="zustand" height="40" />
-<!-- database -->
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="40" />
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mysql.svg" height="40" />
-<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/postgres.svg" height="40" />
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" />
-<!-- hosting -->
-<img src="https://github.com/prplx/svg-logos/raw/master/svg/Vercel-Alt.svg" height="40" />
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/netlify-icon.svg" height="40" />
-<!-- vcs -->
-<img src="https://github.com/prplx/svg-logos/raw/master/svg/Github-Alt.svg" height="40" />
+<img src="https://github.com/prplx/svg-logos/raw/master/svg/React.svg" height="40" style="margin: 8px" /><img src="https://github.com/prplx/svg-logos/raw/master/svg/NextJS-Alt.svg" height="40" style="margin: 8px" />
+<img src="https://github.com/prplx/svg-logos/raw/master/svg/Zod.svg" height="40" style="margin: 8px" /><!-- back-end -->
+<img src="https://raw.githubusercontent.com/actions/starter-workflows/666350e29b10d665a82d5c6d1501a29e50d63c29/icons/nodejs.svg" height="40" style="margin: 8px" /><img src="https://github.com/prplx/svg-logos/raw/master/svg/Firebase.svg" height="40" style="margin: 8px" />
+<img src="https://github.com/prplx/svg-logos/raw/master/svg/Supabase.svg" height="40" style="margin: 8px" />
+<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" height="40" style="margin: 8px" />
+<img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/expressjs.svg" height="40" style="margin: 8px" /><!-- basic -->
+<img src="https://github.com/prplx/svg-logos/raw/master/svg/HTML5.svg" height="40" style="margin: 8px" /><img src="https://github.com/prplx/svg-logos/raw/master/svg/CSS3.svg" height="40" style="margin: 8px" />
+<img src="https://github.com/prplx/svg-logos/raw/master/svg/JavaScript.svg" height="40" style="margin: 8px" />
+<img src="https://github.com/prplx/svg-logos/raw/master/svg/TypeScript-Alt.svg" height="40" style="margin: 8px" /><!-- css framework -->
+<img src="https://github.com/prplx/svg-logos/raw/master/svg/TailwindCSS-Alt.svg" height="40" style="margin: 8px" /><img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/shadcnui.svg" height="40" style="margin: 8px" />
+<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/bootstrap.svg" height="40" style="margin: 8px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materializecss/materializecss-original.svg" height="40" style="margin: 8px" /><!-- state management -->
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/redux.svg" height="40" style="margin: 8px" /><img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/Zustand.svg" alt="zustand" height="40" style="margin: 8px" /><!-- database -->
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="40" style="margin: 8px" />
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mysql.svg" height="40" style="margin: 8px" />
+<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/postgres.svg" height="40" style="margin: 8px" />
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" style="margin: 8px" /><!-- hosting -->
+<img src="https://github.com/prplx/svg-logos/raw/master/svg/Vercel-Alt.svg" height="40" style="margin: 8px" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/netlify-icon.svg" height="40" style="margin: 8px" /><!-- vcs -->
+<img src="https://github.com/prplx/svg-logos/raw/master/svg/Github-Alt.svg" height="40" style="margin: 8px" />
 
